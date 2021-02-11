@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '鱷魚先生', 'text': '20201/1/18-網頁建立 \n', 'tags': '', 'url': '鱷魚先生.html'}, {'title': '歡呼', 'text': '', 'tags': '', 'url': '歡呼.html'}]};
+var tipuesearch = {"pages": [{'title': 'Introduction', 'text': '20201/1/18-Page creation \n NFU-MDE-40823108-KAO,YU-CHE \n Warehouse: Godfather Adolph Warehouse \n Youtube:\xa0 Godfather Adolphe 50 \n', 'tags': '', 'url': 'Introduction.html'}]};
